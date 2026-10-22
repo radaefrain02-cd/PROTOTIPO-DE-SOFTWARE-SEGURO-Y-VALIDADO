@@ -3,8 +3,11 @@
 ## Integrantes
 
 •	Claudio Yamil Torrez Calle
+
 •	Cesar Nayib Luis Sumi Urbina
+
 •	Nicolás Sebastián López Chino
+
 •	Pedro Efrain Rada Saramani
 
 # Prototipo de registro de solicitudes de soporte técnico
